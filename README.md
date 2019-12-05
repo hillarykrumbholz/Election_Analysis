@@ -28,6 +28,10 @@ The analysis of the election show that:
   - Candidate Diana DeGette, who received 73.8% of the vote and 272,892 number of votes
   
 ## Challenge Overview
+The Election Commision is wanting the following tasks to be completed in order to confirm the voter turnout for each county that voted in this congressional district. 
+
+1. Determine the number of votes that were cast from each county. 
+2. Determine the percentage of votes each county contributed to the election.
 
 ## Challenge Summary
   
