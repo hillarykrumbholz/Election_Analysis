@@ -25,7 +25,7 @@ The analysis of the election show that:
   - Diana DeGetter received 73.8% of the vote and 272,892 number of votes.
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of the votes.
 - The winner of the election was:
-  - Candidate Diana DeGette, who received 73.8% of the vote and 272,892 number of votes
+  - Candidate Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
   
 ## Challenge Overview
 The Election Commision is wanting the following tasks to be completed in order to confirm the voter turnout for each county that voted in this congressional district. 
@@ -35,6 +35,16 @@ The Election Commision is wanting the following tasks to be completed in order t
 3. Determine the county with the highest voter turnout. 
 
 ## Challenge Summary
+The analysis of the election shows that:
+- The counties that voted in the election were:
+  - Jefferson
+  - Denver
+  - Arapahoe
+- The county results for voter turnout were:
+  - Jefferson contributed 10.5% of the vote and 38,855 number of votes.
+  - Denver contributed 82.8% of the vote and 272,892 number of votes.
+  - Arapahoe contributed 6.7% of the vote and 11,606 number of votes. 
+- The county with the largest voter turnout is Denver. 
   
   
 
