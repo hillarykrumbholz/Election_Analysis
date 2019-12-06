@@ -30,8 +30,9 @@ The analysis of the election show that:
 ## Challenge Overview
 The Election Commision is wanting the following tasks to be completed in order to confirm the voter turnout for each county that voted in this congressional district. 
 
-1. Determine the number of votes that were cast from each county. 
-2. Determine the percentage of votes each county contributed to the election.
+1. Calculate the number of votes that were cast from each county. 
+2. Calculate the percentage of votes each county contributed to the election.
+3. Determine the county with the highest voter turnout. 
 
 ## Challenge Summary
   
